@@ -34,4 +34,5 @@ func main() {
 			fmt.Println("Email recibido de email 2", m2)
 		}
 	}
+	fmt.Printf("2, %T", 2)
 }
